@@ -2,7 +2,7 @@
 PolicyMate intelligently matches students with government schemes they are eligible for and provides clear, actionable guidance to apply.
 
 # Live Demo
-https://policy-mate-z88r.vercel.app/
+[live demo link]
 
 ## Live Scheme Sync (No Dummy Data)
 
